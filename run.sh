@@ -5,3 +5,5 @@
 #
 
 python examples/mnist_cnn.py
+mkdir results
+echo "Result" > results.txt
