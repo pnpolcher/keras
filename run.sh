@@ -4,6 +4,6 @@
 # Script to run one of the examples automatically.
 #
 
-python examples/mnist_cnn.py
 mkdir results
+python examples/mnist_cnn.py > output.txt
 echo "Result" > results.txt
