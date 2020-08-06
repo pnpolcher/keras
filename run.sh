@@ -5,5 +5,5 @@
 #
 
 mkdir results
-python examples/mnist_cnn.py > output.txt
-echo "Result" > results.txt
+python examples/mnist_cnn.py > ./results/output.txt
+echo "Result" > ./results/results.txt
